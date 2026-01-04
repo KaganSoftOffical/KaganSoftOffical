@@ -1,5 +1,5 @@
 # Welcome to Kagansoft! 🇹🇷
-![Software Status](https://img.shields.io/badge/Status-Developing-red?style=for-the-badge)
+![Software Status](https://img.shields.io/badge/Status-Developing-purple?style=for-the-badge)
 
 ## About Me
 I am a software developer (and a patriot) focused on system stability, legacy OS optimization, disk and hardware programs, old/modern scripting languages. I enjoy building efficient applications. (I dont have real company btw.)
