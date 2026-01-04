@@ -2,7 +2,7 @@
 ![Software Status](https://img.shields.io/badge/Status-Developing-purple?style=for-the-badge)
 
 ## About Me
-I am a software developer (and a [patriot](https://en.wikipedia.org/wiki/Turkey) focused on system stability, legacy OS optimization, disk and hardware programs, old/modern scripting languages. I enjoy building efficient applications. (I dont have real company btw.)
+I am a software developer (and a [patriot](https://en.wikipedia.org/wiki/Turkey)) focused on system stability, legacy OS optimization, disk and hardware programs, old/modern scripting languages. I enjoy building efficient applications. (I dont have real company btw.)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=F7E402&background=000000&width=435&lines=I+love+open-source+projects!)](https://git.io/typing-svg)
 
