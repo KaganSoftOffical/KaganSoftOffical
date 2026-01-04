@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to Kagansoft! 🇹🇷
+![Software Status](https://img.shields.io/badge/Status-Developing-yellow?style=for-the-badge)
 
-<!--
-**KaganSoftOffical/KaganSoftOffical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a software developer (and a patriot) focused on system stability, legacy OS optimization, and old/modern scripting languages. I enjoy building efficient applications. (I dont have real company btw.)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=F7E402&background=000000&width=435&lines=I+love+open-source+projects!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚠️ Sometimes I undertake projects that are **necessary or unnecessary.**
+- ⚡ **Programming Languages:** VB .NET, C#, Python, HTML
+- 🛠️ **Development Tools:** [Visual Studio 2015](https://en.wikipedia.org/wiki/Visual_Studio#2015), [Visual Studio Code](https://code.visualstudio.com/), [PyScripter](https://sourceforge.net/projects/pyscripter/), [Godot Engine](https://godotengine.org/), [Sciter Engine](https://sciter.com/)
+- 💾 **Legacy Support:** I sometimes make some of my projects compatible with [Windows XP SP2](https://en.wikipedia.org/wiki/Windows_XP#Service_Pack_2) and lower versions (Because of the [.NET Framework](https://en.wikipedia.org/wiki/.NET_Framework) version I guess).
+
+*My Markdown Skills are so bad these days because of that I use AI sometimes...*
