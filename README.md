@@ -12,3 +12,5 @@ I am a software developer (and a [patriot](https://en.wikipedia.org/wiki/Turkey)
 - 💾 **Legacy Support:** I sometimes make some of my projects compatible with [Windows XP SP2](https://en.wikipedia.org/wiki/Windows_XP#Service_Pack_2) and lower versions (Because of the [.NET Framework](https://en.wikipedia.org/wiki/.NET_Framework) version I guess.) *(Ahh... I love Nostalgia!)*
 
 *My Markdown Skills are so bad these days because of that I use AI sometimes...*
+
+![Coding Meme](MEME.JPG)
