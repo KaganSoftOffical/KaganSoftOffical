@@ -1,4 +1,4 @@
-# Welcome to Kagansoft! 🇹🇷
+# Welcome to Kagansoft!
 ![Software Status](https://img.shields.io/badge/Status-Developing-purple?style=for-the-badge)
 
 ## About Me
