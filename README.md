@@ -2,7 +2,7 @@
 ![Software Status](https://img.shields.io/badge/Status-Developing-purple?style=for-the-badge)
 
 ## About Me
-I am a software developer (and a [patriot](https://en.wikipedia.org/wiki/Turkey)) focused on system stability, legacy OS optimization, disk and hardware programs, old/modern [scripting languages.](https://en.wikipedia.org/wiki/Scripting_language) I enjoy building efficient applications. (I dont have real company btw.) 
+I am a software developer (and a [patriot](https://en.wikipedia.org/wiki/Turkey)) focused on system stability, legacy OS optimization, disk and hardware programs, old/modern [scripting languages.](https://en.wikipedia.org/wiki/Scripting_language) and *other things...* I enjoy building efficient applications. (I dont have real company btw.) 
 
 *And Im going to school...*
 
