@@ -1,5 +1,7 @@
 # Welcome to Kagansoft!
-![Software Status](https://img.shields.io/badge/Status-Developing-purple?style=for-the-badge)
+![My Status](https://img.shields.io/badge/Status-Developing-purple?style=for-the-badge)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KaganSoftOffical&show_icons=true&theme=dark&layout=compact)
 
 ## About Me
 I am a software developer (and a [patriot](https://en.wikipedia.org/wiki/Turkey)) focused on system stability, legacy OS optimization, disk and hardware programs, old/modern [scripting languages.](https://en.wikipedia.org/wiki/Scripting_language) and *other things...* I enjoy building efficient applications. (I dont have real company btw.) 
