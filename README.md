@@ -15,6 +15,6 @@ I am a software developer focused on system stability, legacy OS optimization, d
 - 🛠️ **Development Tools:** [Visual Studio 2017](https://en.wikipedia.org/wiki/Visual_Studio#2017), [Visual Studio Code](https://code.visualstudio.com/), [PyScripter](https://sourceforge.net/projects/pyscripter/), [Godot Engine](https://godotengine.org/), [Tauri Engine](https://v2.tauri.app)
 - 💾 **Legacy Support:** I sometimes make some of my projects compatible with [Windows XP SP2](https://en.wikipedia.org/wiki/Windows_XP#Service_Pack_2) and lower versions (Because of the [.NET Framework](https://en.wikipedia.org/wiki/.NET_Framework) version I guess.) *(Ahh... I love Nostalgia!)*
 
-*My Markdown Skills are so bad these days because of that I use AI sometimes...*
+*My Markdown Skills are so bad these days because of that I use AI sometimes (or copy from other profiles readme document)...*
 
 ![Coding Meme](MEME.JPG)
