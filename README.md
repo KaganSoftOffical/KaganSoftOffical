@@ -20,4 +20,4 @@ I am a software developer focused on system stability, legacy OS optimization, d
 
 ![Coding Meme](MEME.PNG)
 
-![Which side from are you?](FUNCSIDE.jpg)
+![Which side are you on?](FUNCSIDE.jpg)
