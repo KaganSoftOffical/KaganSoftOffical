@@ -16,5 +16,4 @@ I am a software developer focused on system stability, legacy OS optimization, d
 - 💾 **Legacy Support:** I sometimes make some of my projects compatible with [Windows XP SP2](https://en.wikipedia.org/wiki/Windows_XP#Service_Pack_2) and lower versions (Because of the [.NET Framework](https://en.wikipedia.org/wiki/.NET_Framework) version I guess.) *(Ahh... I love Nostalgia!)*
 
 *My Markdown Skills are so bad these days because of that I use AI sometimes (or copy from other profiles readme document)...*
-
-![Coding Meme](MEME.JPG)
+*And if you're wondering why I'm not creating a new repo, it's because I can't find any ideas.*
