@@ -17,3 +17,5 @@ I am a software developer focused on system stability, legacy OS optimization, d
 
 *My Markdown Skills are so bad these days because of that I use AI sometimes (or copy from other profiles readme document)...*
 *And if you're wondering why I'm not creating a new repo, it's because I can't find any ideas.*
+
+![Coding Meme](MEME.PNG)
