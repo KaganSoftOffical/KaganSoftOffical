@@ -4,7 +4,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KaganSoftOffical&show_icons=true&theme=dark&layout=compact)
 
 ## About Me
-I am a software developer focused on system stability, legacy OS optimization, disk and hardware programs, old/modern [scripting languages.](https://en.wikipedia.org/wiki/Scripting_language) and *other things...* I enjoy building efficient applications. (I dont have real company btw.) 
+I am a software developer focused on system stability, legacy OS optimization, disk and hardware programs, old/modern [scripting languages.](https://en.wikipedia.org/wiki/Scripting_language) and *other things...* I enjoy building efficient applications. **(I dont have real company btw.)** 
 
 *And Im going to school...*
 
@@ -19,3 +19,5 @@ I am a software developer focused on system stability, legacy OS optimization, d
 *And if you're wondering why I'm not creating a new repo, it's because I can't find any ideas.*
 
 ![Coding Meme](MEME.PNG)
+
+![Which side from are you?](FUNCSIDE.jpg)
