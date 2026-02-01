@@ -4,7 +4,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KaganSoftOffical&show_icons=true&theme=dark&layout=compact)
 
 ## About Me
-I am a software developer focused on system stability, legacy OS optimization, disk and hardware programs, old/modern [scripting languages.](https://en.wikipedia.org/wiki/Scripting_language) and *other things...* I enjoy building efficient applications. **(I dont have real company btw.)** 
+I am a software developer focused on system stability, old/modern [scripting languages.](https://en.wikipedia.org/wiki/Scripting_language) and *other things...* I enjoy building efficient applications. **(I dont have real company btw.)** 
 
 *And Im going to school...*
 
