@@ -21,3 +21,5 @@ I am a software developer focused on system stability, old/modern [scripting lan
 ![Coding Meme](MEME.PNG)
 
 ![Which side are you on?](FUNCSIDE.jpg)
+
+**By the Way I Found These memes in the Internet.**
